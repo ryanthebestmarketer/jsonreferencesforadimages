@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "intent": "recreate a clean B2B SaaS ad graphic with a bold social-proof headline and a grid of client logos",
+    "image_type": "graphic design ad creative",
+    "aspect_ratio": "4:5",
+    "resolution_style": "high-resolution static social ad",
+    "style": "modern SaaS, polished, minimal, conversion-focused",
+    "design_language": "Meta-friendly ad creative, startup software landing-page aesthetic, premium but simple",
+    "use_case": "paid social ad, Instagram feed creative, B2B software brand awareness"
+  },
+  "scene": {
+    "setting": "single flat digital ad composition",
+    "environment": "no real-world setting, fully graphic layout",
+    "mood": "efficient, credible, trustworthy, modern, software-driven",
+    "visual_goal": "instantly communicate social proof and product legitimacy through strong number-first headline and recognizable customer logo wall"
+  },
+  "canvas": {
+    "background_type": "soft gradient field",
+    "base_color_family": "electric blue to violet-blue",
+    "gradient_style": "smooth radial + vertical blend",
+    "primary_colors": [
+      "#5f63ff",
+      "#5d67ff",
+      "#6367ff",
+      "#5a5eff"
+    ],
+    "center_glow": {
+      "enabled": true,
+      "color": "#7a7dff",
+      "intensity": "subtle to medium",
+      "placement": "behind headline, slightly upper center"
+    },
+    "texture": {
+      "enabled": true,
+      "type": "very faint soft blur / bloom",
+      "grain": "none or extremely minimal"
+    },
+    "finish": "clean digital gradient, no harsh edges, no visible banding"
+  },
+  "composition": {
+    "layout": "top-heavy headline with lower-half logo grid",
+    "safe_margins": "generous padding on all sides",
+    "headline_zone": "upper 45% of frame",
+    "logo_zone": "lower 35% to 40% of frame",
+    "cta_zone": "none visible in this cropped version",
+    "visual_flow": "headline first, number second, supporting copy third, brand logos last"
+  },
+  "headline_block": {
+    "position": "top center",
+    "alignment": "centered",
+    "max_width": "about 70% of canvas width",
+    "text_content": [
+      "Already",
+      "1,350",
+      "brands eliminated",
+      "the nightmare of",
+      "manually uploading",
+      "Meta Ad creatives"
+    ],
+    "hierarchy": {
+      "line_1": {
+        "font_size": "medium",
+        "font_weight": "regular",
+        "color": "#ffffff"
+      },
+      "line_2": {
+        "font_size": "very large",
+        "font_weight": "extra bold",
+        "color": "#ffffff"
+      },
+      "line_3_to_6": {
+        "font_size": "large",
+        "font_weight": "regular",
+        "color": "#ffffff"
+      }
+    },
+    "typography": {
+      "font_family": "clean rounded geometric sans-serif similar to Inter, SF Pro Display, or Circular",
+      "case": "title case exactly as shown",
+      "tracking": "slightly tight but readable",
+      "line_height": "compact but airy enough for premium feel",
+      "kerning": "optically balanced",
+      "rendering": "smooth anti-aliased vector-style text"
+    },
+    "effects": {
+      "drop_shadow": {
+        "enabled": false
+      },
+      "glow": {
+        "enabled": true,
+        "color": "rgba(255,255,255,0.08)",
+        "strength": "very subtle"
+      }
+    }
+  },
+  "logo_grid": {
+    "position": "bottom half, centered horizontally",
+    "structure": {
+      "rows": 5,
+      "columns": 5,
+      "layout_feel": "slightly irregular but balanced pill-button grid",
+      "spacing": "consistent horizontal and vertical gaps"
+    },
+    "pill_containers": {
+      "shape": "rounded capsules / pill outlines",
+      "border_color": "#d9d9ff",
+      "border_width": "thin to medium",
+      "fill": "mostly transparent",
+      "corner_radius": "full capsule",
+      "height": "uniform within each row, with small variation for authenticity",
+      "shadow": "none or extremely subtle"
+    },
+    "logos_style": {
+      "placement": "centered within each pill",
+      "color_treatment": "mostly white logos, with select pills having filled brand colors",
+      "render_style": "vector logo treatment, clean and crisp",
+      "scale": "fit comfortably inside pills with even padding"
+    },
+    "notable_logo_treatments": [
+      {
+        "brand": "cosan",
+        "pill_fill": "#16d27c",
+        "logo_color": "#ffffff"
+      },
+      {
+        "brand": "BMW",
+        "pill_fill": "#ffffff",
+        "logo_color": "black emblem details"
+      },
+      {
+        "brand": "globoplay",
+        "pill_fill": "#f2c326",
+        "logo_color": "#ffffff"
+      },
+      {
+        "brand": "suno",
+        "pill_fill": "#18d27d",
+        "logo_color": "#b8ffdf or light mint/white hybrid"
+      },
+      {
+        "brand": "RD",
+        "pill_fill": "#ff315a",
+        "logo_color": "#ffffff"
+      }
+    ],
+    "brands_visible": [
+      "Zippo",
+      "cosan",
+      "icarros",
+      "Canva",
+      "eleven",
+      "Orsa",
+      "Odonto Company",
+      "BMW",
+      "Carrefour",
+      "Ståhl",
+      "BBC Studios",
+      "Zippo",
+      "Wix",
+      "globoplay",
+      "Gol",
+      "suno",
+      "NBCUniversal",
+      "BBC Studios",
+      "Dun...",
+      "RSM",
+      "DATACOM",
+      "RD",
+      "lightspeed"
+    ],
+    "layout_notes": {
+      "top_row": "partially cropped pills visible at far left and right edges, matching the screenshot feel",
+      "middle_rows": "logos alternate between white-outline pills and a few filled-color pills for visual variety",
+      "bottom_row": "three or four prominent pills visible with strong spacing and centered alignment"
+    }
+  },
+  "design_characteristics": {
+    "overall_cleanliness": "very high",
+    "branding_style": "software startup social proof ad",
+    "conversion_approach": "trust-building via large adoption number plus recognizable logo cluster",
+    "visual_density": "moderate, with breathing room above the logo wall",
+    "mobile_optimized": true,
+    "ad_feel": "looks like a static paid social creative from an ad automation platform"
+  },
+  "lighting_and_rendering": {
+    "lighting_type": "flat design lighting with ambient digital glow",
+    "specularity": "none",
+    "contrast": "moderate",
+    "sharpness": "high",
+    "render_quality": "crisp edges, polished typography, no 3D depth unless extremely subtle"
+  },
+  "color_palette": {
+    "background_main": "#6166ff",
+    "background_secondary": "#5a60fb",
+    "text_primary": "#ffffff",
+    "outline": "#d8dbff",
+    "green_accent": "#17d47c",
+    "yellow_accent": "#f2c326",
+    "red_accent": "#ff315a",
+    "white_fill": "#ffffff"
+  },
+  "negative_prompts": [
+    "no smartphone frame",
+    "no Instagram UI",
+    "no learn more button",
+    "no ad label",
+    "no app icons",
+    "no human subjects",
+    "no desk or physical environment",
+    "no photorealistic objects",
+    "no 3D mockup perspective",
+    "no dark shadows",
+    "no noisy textures",
+    "no distorted typography",
+    "no warped logo pills",
+    "no random extra logos",
+    "no low-resolution text",
+    "no bevel effects",
+    "no glossy fake reflections"
+  ],
+  "generation_notes": {
+    "priority_1": "preserve the exact visual hierarchy of a small top line, huge central number, then four centered supporting lines",
+    "priority_2": "keep the blue-violet gradient background smooth and premium",
+    "priority_3": "make the logo pills feel authentic, evenly spaced, and high-end",
+    "priority_4": "ensure the piece reads as a SaaS social-proof ad, not a generic poster",
+    "priority_5": "maintain a feed-friendly cropped composition with no surrounding app interface"
+  }
+}
